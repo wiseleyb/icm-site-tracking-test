@@ -13,7 +13,4 @@ zzzzzzz
 fdfdfdfdf
 wef
 we
-fw
-ef
-wef
 w
