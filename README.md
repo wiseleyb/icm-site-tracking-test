@@ -16,11 +16,6 @@ we
 w
 
 
-fe
-fe
-fe
-f
-ef
 e
 
 
